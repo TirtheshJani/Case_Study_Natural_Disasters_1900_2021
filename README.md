@@ -37,6 +37,6 @@ To view and interact with the Tableau dashboards:
 
 
 ## License
-This project is licensed under the MIT - see the LICENSE.md file for details.
+This project is licensed under the MIT license- see the LICENSE.md file for details.
 
 
